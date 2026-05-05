@@ -1,4 +1,4 @@
-# 📝 Task Manager App
+# Task Manager App
 
 A simple and interactive Task Manager built using **HTML, CSS, and JavaScript** with **Local Storage support** and **Dark Mode**.
 
